@@ -40,3 +40,8 @@ Want to know more about me? [Head over to the about page](/about/)!
   name = "About"
   url = "/about/"
   weight = 1
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
