@@ -1,4 +1,4 @@
-baseURL = "https://plotem.github.io/"
+baseURL = "https://plotem.dev/"
 locale = "en-us"
 title = "Conor's site"
 theme = "PaperMod"
